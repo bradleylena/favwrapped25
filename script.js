@@ -93,7 +93,7 @@ const slides = [
   },
   {
     title: "💌 Final Message",
-    text: "I Hope you enjoy today and the rest of your life as you go through diff chapters. Keep shinhnig Kaula✨Im super duper proud of you always. You have a beautiful soul,such a great buddy and deeply loved.(fix ur sleep schedule) Happy Birthday Fav. 🎂",
+    text: "I Hope you enjoy today and the rest of your life as you go through diff chapters. Keep shining Kaula✨Im super duper proud of you always. You have a beautiful soul, ur such a great buddy and deeply loved.(fix ur sleep schedule btw) Happy Birthday Fav. 🎂",
   },
 ];
 
